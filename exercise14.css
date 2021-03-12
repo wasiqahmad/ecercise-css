@@ -1,0 +1,86 @@
+body{
+    color: #666;
+    background-color: #f8f8f8;
+}
+
+
+
+h1{
+    color: darkslategrey;
+}
+li{
+    list-style-image: url(./picture.jpg);
+    line-height: 1.6e,;
+}
+.class{
+    border: 2px solid skyblue;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+.table{
+    /* border: 2px solid grey; */
+    width: 230px;
+    /* border-radius: 10px; */
+margin: opx;
+
+}
+th,td{
+    /* border: 1px solid grey; */
+    width: 100px;
+    text-align: left;
+/* border-radius: 10px; */
+padding: 5px 1px 2px 20px;
+
+}
+
+th{
+    border: 2px solid skyblue;
+border-radius: 5px;
+background-color: skyblue;
+color: white;
+}
+.one{
+    background-color: aqua;    
+    text-shadow: -1px -1px 1px #666
+}
+.two{
+    background-color: pink;
+    text-shadow: -1px -1px 1px #666
+}
+.three{
+    background-color: lightblue;
+    text-shadow: -1px -1px 1px #666
+}
+fieldset{
+    width: 300px;
+margin: 2px;
+line-height: 20px;
+}
+legend{
+    margin: 20px;
+}
+input{
+    margin: 2px;
+    border: 2px solid outset;
+}
+select{
+    margin: 20px;
+    background-color: skyblue;
+}
+.radio{
+    margin: 0px;
+}
+span{
+    margin-right: 15px;
+}
+legend{
+    font-style: italic;
+}
+
+
+
+
+
+
+
