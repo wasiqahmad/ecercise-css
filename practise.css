@@ -1,0 +1,64 @@
+/* p{
+    color: brown;
+    position:relative;
+    top: 10%;
+    left: 3%;
+    clear: both;
+    overflow: auto;
+    padding: 20%;
+    
+}
+
+h1{
+     float:right;
+    padding: 10%;
+    margin: auto;
+}  */
+
+/* img.class{
+    width: 100px;
+    height: 100px;
+    float: none;
+    
+    
+    display: block;
+margin: auto;
+}
+p{
+    margin: auto;
+    text-align: right;
+
+}
+
+img.picture{
+    width: 100px;
+    height: 100px;
+    float: right;
+} */
+    
+/* p{
+    width: 400px;
+text-align: left; */
+/* margin-right: 10px; */
+/* } */
+/* img.picture{
+    float: right;
+width: 100px;
+height: 100px;
+margin-top: 200px;
+} */
+/* p{ */
+    /* background-image: url(./test.png);
+    background-repeat: no-repeat; */
+    /* background: url(./test.png) fixed no-repeat;
+    background-position: center top; */
+  /* background-position: ; */
+/* } */
+
+pre{
+    background: url(./test.png) no-repeat fixed;
+    background-position: 50% 50%;
+}
+
+
+

@@ -1,0 +1,71 @@
+body{
+    width: 650px;
+    margin: auto;
+background-color: darkslategrey;
+}
+.one{
+    color: whitesmoke;
+    text-transform: uppercase;
+position: relative;
+
+
+}
+.two{
+    color: whitesmoke;
+position: relative;
+
+
+}
+.three{
+    width: 400px;
+    text-transform: uppercase;
+    margin-left: 400px;
+    color: whitesmoke;
+
+}
+.four{
+    margin-left: 450px;
+    color: whitesmoke;
+    font-size: 50%;
+    
+    
+}
+
+.five{
+    width: 200px;
+    float: right;
+color: whitesmoke;
+}
+.six{
+    border-top: 2px solid whitesmoke;
+    text-transform: uppercase;
+    color: whitesmoke;
+    padding-top: 20px;
+}
+.important {
+ width: 150px;   
+    display: inline !important ;
+margin: auto;
+
+
+}
+p{
+    color: whitesmoke;
+width: 120px;
+
+}
+
+.div{
+    display: inline ;
+float:right;
+
+}
+.imp{
+    border-bottom: 2px solid whitesmoke;
+
+}
+b{
+    color: orangered;
+}
+
+

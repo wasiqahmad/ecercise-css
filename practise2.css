@@ -1,0 +1,9 @@
+button{
+    background: fixed url(./beautiful.jpg) ;
+}
+input{
+    background: url(./boss.jpg) fixed ;
+}
+a{
+    background: url(./5.jpg) fixed;
+}
